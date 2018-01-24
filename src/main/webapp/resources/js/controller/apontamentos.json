@@ -1,0 +1,487 @@
+[
+{"codigoCC":"32342",
+ "totalApont":"2040",
+ "totalPrev":"1000", 
+  "maquinas": [
+    {
+    "nomeMaquina": "Usinagem",
+    "totalApont": "1000",
+    "Operador" : [
+      { "nomeOperador" : "Jose",
+        "totalApont": "500"    
+      },
+      { "nomeOperador" : "Paulo",
+        "totalApont": "500"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Estamparia",
+    "totalApont": "2000",
+     "Operador" : [
+      { "nomeOperador" : "Joaquim Pereira",
+        "totalApont": "1500"    
+      },
+      { "nomeOperador" : "Mario",
+        "totalApont": "500"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Montagem",
+    "totalApont": "3000",
+     "Operador" : [
+      { "nomeOperador" : "Antonio",
+        "totalApont": "2000"    
+      },
+      { "nomeOperador" : "Marcelo",
+        "totalApont": "1000"    
+      }            
+     ]    
+    }    
+  ]
+  
+}, 
+
+{"codigoCC":"97653",
+ "totalApont":"2040",
+ "totalPrev":"1000", 
+  "maquinas": [
+    {
+    "nomeMaquina": "Usinagem",
+    "totalApont": "1000",
+    "Operador" : [
+      { "nomeOperador" : "Jose",
+        "totalApont": "500"    
+      },
+      { "nomeOperador" : "Paulo",
+        "totalApont": "500"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Estamparia",
+    "totalApont": "2000",
+     "Operador" : [
+      { "nomeOperador" : "Joaquim Pereira",
+        "totalApont": "1500"    
+      },
+      { "nomeOperador" : "Mario",
+        "totalApont": "500"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Montagem",
+    "totalApont": "3000",
+     "Operador" : [
+      { "nomeOperador" : "Antonio",
+        "totalApont": "2000"    
+      },
+      { "nomeOperador" : "Marcelo",
+        "totalApont": "1000"    
+      }            
+     ]    
+    }    
+  ]
+  
+}, 
+
+{"codigoCC":"75643",
+ "totalApont":"2040",
+ "totalPrev":"1000", 
+  "maquinas": [
+    {
+    "nomeMaquina": "Usinagem",
+    "totalApont": "1000",
+    "Operador" : [
+      { "nomeOperador" : "Jose",
+        "totalApont": "500"    
+      },
+      { "nomeOperador" : "Paulo",
+        "totalApont": "500"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Estamparia",
+    "totalApont": "2000",
+     "Operador" : [
+      { "nomeOperador" : "Joaquim Pereira",
+        "totalApont": "1500"    
+      },
+      { "nomeOperador" : "Mario",
+        "totalApont": "500"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Montagem",
+    "totalApont": "3000",
+     "Operador" : [
+      { "nomeOperador" : "Antonio",
+        "totalApont": "2000"    
+      },
+      { "nomeOperador" : "Marcelo",
+        "totalApont": "1000"    
+      }            
+     ]    
+    }    
+  ]
+  
+}, 
+
+{"codigoCC":"87900",
+ "totalApont":"2040",
+ "totalPrev":"1000", 
+  "maquinas": [
+    {
+    "nomeMaquina": "Usinagem",
+    "totalApont": "1000",
+    "Operador" : [
+      { "nomeOperador" : "Jose",
+        "totalApont": "500"    
+      },
+      { "nomeOperador" : "Paulo",
+        "totalApont": "500"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Estamparia",
+    "totalApont": "2000",
+     "Operador" : [
+      { "nomeOperador" : "Joaquim Pereira",
+        "totalApont": "1500"    
+      },
+      { "nomeOperador" : "Mario",
+        "totalApont": "500"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Montagem",
+    "totalApont": "3000",
+     "Operador" : [
+      { "nomeOperador" : "Antonio",
+        "totalApont": "2000"    
+      },
+      { "nomeOperador" : "Marcelo",
+        "totalApont": "1000"    
+      }            
+     ]    
+    }    
+  ]
+  
+}, 
+
+{"codigoCC":"125467",
+ "totalApont":"2040",
+ "totalPrev":"1000", 
+  "maquinas": [
+    {
+    "nomeMaquina": "Usinagem",
+    "totalApont": "1000",
+    "Operador" : [
+      { "nomeOperador" : "Jose",
+        "totalApont": "500"    
+      },
+      { "nomeOperador" : "Paulo",
+        "totalApont": "500"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Estamparia",
+    "totalApont": "2000",
+     "Operador" : [
+      { "nomeOperador" : "Joaquim Pereira",
+        "totalApont": "1500"    
+      },
+      { "nomeOperador" : "Mario",
+        "totalApont": "500"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Montagem",
+    "totalApont": "3000",
+     "Operador" : [
+      { "nomeOperador" : "Antonio",
+        "totalApont": "2000"    
+      },
+      { "nomeOperador" : "Marcelo",
+        "totalApont": "1000"    
+      }            
+     ]    
+    }    
+  ]
+  
+}, 
+
+
+{"codigoCC":"879012",
+ "totalApont":"2040",
+ "totalPrev":"1000", 
+  "maquinas": [
+    {
+    "nomeMaquina": "Usinagem",
+    "totalApont": "1000",
+    "Operador" : [
+      { "nome" : "Jose",
+        "totalApont": "500"    
+      },
+      { "nome" : "Paulo",
+        "totalApont": "500"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Estamparia",
+    "totalApont": "2000",
+     "Operador" : [
+      { "nomeOperador" : "Joaquim Pereira",
+        "totalApont": "1500"    
+      },
+      { "nomeOperador" : "Mario",
+        "totalApont": "500"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Montagem",
+    "totalApont": "3000",
+     "Operador" : [
+      { "nomeOperador" : "Antonio",
+        "totalApont": "2000"    
+      },
+      { "nomeOperador" : "Marcelo",
+        "totalApont": "1000"    
+      }            
+     ]    
+    }    
+  ]
+  
+}, 
+
+{"codigoCC":"27890",
+ "totalApont":"2040",
+ "totalPrev":"1000", 
+  "maquinas": [
+    {
+    "nomeMaquina": "Usinagem",
+    "totalApont": "1000",
+    "Operador" : [
+      { "nomeOperador" : "Jose",
+        "totalApont": "500"    
+      },
+      { "nomeOperador" : "Paulo",
+        "totalApont": "500"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Estamparia",
+    "totalApont": "2000",
+     "Operador" : [
+      { "nomeOperador" : "Joaquim Pereira",
+        "totalApont": "1500"    
+      },
+      { "nomeOperador" : "Mario",
+        "totalApont": "500"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Montagem",
+    "totalApont": "3000",
+     "Operador" : [
+      { "nomeOperador" : "Antonio",
+        "totalApont": "2000"    
+      },
+      { "nomeOperador" : "Marcelo",
+        "totalApont": "1000"    
+      }            
+     ]    
+    }    
+  ]
+  
+}, 
+
+{"codigoCC":"34567",
+ "totalApont":"2040",
+ "totalPrev":"1000", 
+  "maquinas": [
+    {
+    "nomeMaquina": "Usinagem",
+    "totalApont": "1000",
+    "Operador" : [
+      { "nomeOperador" : "Jose",
+        "totalApont": "500"    
+      },
+      { "nomeOperador" : "Paulo",
+        "totalApont": "500"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Estamparia",
+    "totalApont": "2000",
+     "Operador" : [
+      { "nomeOperador" : "Joaquim Pereira",
+        "totalApont": "1500"    
+      },
+      { "nomeOperador" : "Mario",
+        "totalApont": "500"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Montagem",
+    "totalApont": "3000",
+     "Operador" : [
+      { "nomeOperador" : "Antonio",
+        "totalApont": "2000"    
+      },
+      { "nomeOperador" : "Marcelo",
+        "totalApont": "1000"    
+      }            
+     ]    
+    }    
+  ]
+  
+}, 
+
+{"codigoCC":"54633",
+ "totalApont":"2040",
+ "totalPrev":"1000", 
+  "maquinas": [
+    {
+    "nomeMaquina": "Usinagem",
+    "totalApont": "1000",
+    "Operador" : [
+      { "nomeOperador" : "Jose",
+        "totalApont": "500"    
+      },
+      { "nomeOperador" : "Paulo",
+        "totalApont": "500"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Estamparia",
+    "totalApont": "2000",
+     "Operador" : [
+      { "nomeOperador" : "Joaquim Pereira",
+        "totalApont": "1500"    
+      },
+      { "nomeOperador" : "Mario",
+        "totalApont": "500"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Montagem",
+    "totalApont": "3000",
+     "Operador" : [
+      { "nomeOperador" : "Antonio",
+        "totalApont": "2000"    
+      },
+      { "nomeOperador" : "Marcelo",
+        "totalApont": "1000"    
+      }            
+     ]    
+    }    
+  ]
+  
+}, 
+
+{"codigoCC":"15567",
+ "totalApont":"2040",
+ "totalPrev":"1000", 
+  "maquinas": [
+    {
+    "nomeMaquina": "Usinagem",
+    "totalApont": "1000",
+    "Operador" : [
+      { "nomeOperador" : "Jose",
+        "totalApont": "500"    
+      },
+      { "nomeOperador" : "Paulo",
+        "totalApont": "500"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Estamparia",
+    "totalApont": "2000",
+     "Operador" : [
+      { "nomeOperador" : "Joaquim Pereira",
+        "totalApont": "1500"    
+      },
+      { "nomeOperador" : "Mario",
+        "totalApont": "500"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Montagem",
+    "totalApont": "3000",
+     "Operador" : [
+      { "nomeOperador" : "Antonio",
+        "totalApont": "2000"    
+      },
+      { "nomeOperador" : "Marcelo",
+        "totalApont": "1000"    
+      }            
+     ]    
+    }    
+  ]
+  
+}, 
+
+
+ 
+{"codigoCC":"980133",
+"totalApont":"1233",
+"totalPrev":"5000", 
+  "maquinas": [
+    {
+    "nomeMaquina": "Montagem",
+    "totalApont": "500",
+     "Operador" : [
+      { "nome" : "Itamar",
+        "totalApont": "250"    
+      },
+      { "nome" : "Francisco",
+        "totalApont": "250"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Estamparia",
+    "totalApont": "800",
+     "Operador" : [
+      { "nome" : "João Martin",
+        "totalApont": "400"    
+      },
+      { "nome" : "Ivan",
+        "totalApont": "400"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Usinagem",
+    "totalApont": "1000",
+     "Operador" : [
+      { "nome" : "Rafael",
+        "totalApont": "500"    
+      },
+      { "nome" : "Arlindo",
+        "totalApont": "500"    
+      }            
+     ]    
+    }    
+  ]
+}
+]
